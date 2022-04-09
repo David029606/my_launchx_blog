@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://david029606.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi ruta de Aprendizaje</title>
+      <link>https://david029606.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://david029606.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>En el pasado mes y medio, nos adentramos en un mundo, que, hasta cierto punto, era desconocido para mi, que es el mundo del desarrollo web, para ser sincero, iba con bastantes temores y hasta incertidumbres de lo que iba a pasar, todo empezo cuando entramos al onboarding, donde vimos conceptos basicos de programacion con Phyton, y para ser sincoer crei que ni siquiera iba a poder con esta parte introductoria, pero decidi no rendirme, decidi tomar las actividades y repasasar los lives hasta que mi conocimiento fuera mas o menos aceptable para continunar, despues entramos la mision front end, en donde comenzamos con HTML y me fue bien creo yo, habia esccuchado varios comentarios acerca de que no era un lenguaje de programacion y que era relativamente facil de aprender, despues entramos con CSS y fue algo dificil para mi por tantos conceptos que aprender pero segui avanzando, hasta que llegamos a Js y fue como la cereza del pastel, en mi escuela estoy aprendiendo JAVA y al entrara a JS por fin pude entender de mejor manera algunos conceptos que solo habia repasado pero no sabia como funcionaban.</description>
+    </item>
+    
+    <item>
       <title>La cultura de un Desarraolador de software</title>
       <link>https://david029606.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
